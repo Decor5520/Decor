@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\bin\Debug\QLBH2.0.exe.config
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\bin\Debug\QLBH2.0.exe
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\bin\Debug\QLBH2.0.pdb
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Debug\QLBH2.0.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Debug\QLBH2._0.Form1.resources
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Debug\QLBH2._0.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Debug\QLBH2.0.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Debug\QLBH2.0.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Debug\QLBH2.0.exe
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Debug\QLBH2.0.pdb
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Debug\QLBH2._0.View.FrmNhanVien.resources
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Debug\QLBH2._0.View.FormDangNhap.resources
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Debug\QLBH2._0.FrmDoiMatKhau.resources

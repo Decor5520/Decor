@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Release\QLBH2.0.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Release\QLBH2._0.Form1.resources
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Release\QLBH2._0.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Release\QLBH2._0.View.FormNhanVien.resources
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Release\QLBH2.0.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLBH2.0\QLBH2.0\obj\Release\QLBH2.0.csproj.CoreCompileInputs.cache
